@@ -1,1 +1,1 @@
-news1.txt - отредактиовал из master
+news1.txt - Отредактировал в ветке news-usa и в ветке master
